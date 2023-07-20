@@ -62,6 +62,8 @@ int main(){
                c='R';
                break;
         }
+
+        
         
     }
     printf("%d%d",x,y);
